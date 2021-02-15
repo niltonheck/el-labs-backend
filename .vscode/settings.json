@@ -1,0 +1,16 @@
+{
+    "dotnet-test-explorer.testProjectPath": "**/*.sln",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/coverage": true
+    },
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
