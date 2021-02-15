@@ -36,8 +36,6 @@ Para os testes unitários foi utlizado XUnit com mocks criados utilizando a bibl
 
 As definições quanto a quebra das camadas tem como objetivo uma maior adesão aos princípios do SOLID.
 
-Embora talvez não evidentes os DTOs estão localizados na pasta "Models" do pacote Application.
-
 <br />
 
 Know Issues
