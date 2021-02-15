@@ -40,6 +40,19 @@ Embora talvez não evidentes os DTOs estão localizados na pasta "Models" do pac
 
 <br />
 
+Know Issues:
+---
+
+Alguns pontos de falha importantes em relação a aplicação que acho justo dar visibilidade (e noção do impacto):
+
+- Os controladores não estão no escopo de teste;
+- Não há rota de listagem de todas reservas "GET /bookings";
+- Lançamento de exceções genéricas para falhas conhecidas (não validação, por exemplo); Embora em grande parte haja tratamento para estes erros.
+- Não há implementação, na solução, para extração de code coverage dos testes unitários;
+- Algumas rotas poderiam ter seus objetos de "request" melhor trabalhados, para evitar envio de propriedades indesejadas; Isto é feito exclusivamente em uma ou outra rota.
+
+<br />
+
 Referências:
 ---
 
