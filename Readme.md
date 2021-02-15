@@ -2,7 +2,7 @@ Teste EL - Backend
 ===
 
 Esta solução está organizada em 6 camadas de "aplicação" + 1 de "teste".
-Cada camada possui seu próprio arquivo de readme e possui uma breve explicação do conteúdo, além de serem pontuadas algumas decisões de design.
+**Cada camada possui seu próprio arquivo de readme e possui uma breve explicação do conteúdo, além de serem pontuadas algumas decisões de design.**
 
 <br />
 
