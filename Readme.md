@@ -9,12 +9,13 @@ Cada camada possui seu próprio arquivo de readme e possui uma breve explicaçã
 Estrutura
 ---
 
-- [CWebService.**Api**](http://): Camada de Apresentação.
-- [CWebService.**Applicação**](http://): Camada de Negócio 
-- [CWebService.**CrossCutting**](http://): Camada de IoC
-- [CWebService.**Data**](http://): Camada de Dados
-- [CWebService.**Domain**](http://): Camada de Domínio
-- [CWebService.**Infraestructure**](http://): Camada de Infraestrutura
+
+- [CWebService.**Api**](https://github.com/niltonheck/el-labs-backend/tree/master/src/CWebService.Api): Camada de Apresentação.
+- [CWebService.**Application**]([http://](https://github.com/niltonheck/el-labs-backend/tree/master/src/CWebService.Application)): Camada de Negócio 
+- [CWebService.**CrossCutting**]([http://](https://github.com/niltonheck/el-labs-backend/tree/master/src/CWebService.CrossCutting)): Camada de IoC
+- [CWebService.**Infrastructure**]([http://](https://github.com/niltonheck/el-labs-backend/tree/master/src/CWebService.Infrastructure)): Camada de Dados
+- [CWebService.**Domain**]([http://](https://github.com/niltonheck/el-labs-backend/tree/master/src/CWebService.Domain)): Camada de Domínio
+- [CWebService.**Tests**]([http://](https://github.com/niltonheck/el-labs-backend/tree/master/src/CWebService.Tests)): Testes
 
 <br />
 
