@@ -40,7 +40,7 @@ Embora talvez não evidentes os DTOs estão localizados na pasta "Models" do pac
 
 <br />
 
-Know Issues:
+Know Issues
 ---
 
 Alguns pontos de falha importantes em relação a aplicação que acho justo dar visibilidade (e noção do impacto):
@@ -53,7 +53,7 @@ Alguns pontos de falha importantes em relação a aplicação que acho justo dar
 
 <br />
 
-Referências:
+Referências
 ---
 
 Muitas das decisões de organização e/ou implementação desse projeto tiveram como base conceitos e ideias fundamentadas (em partes ou totalmente) em alguams obras. Principalmente:
