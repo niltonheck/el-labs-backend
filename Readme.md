@@ -50,7 +50,7 @@ Referências
 
 Muitas das decisões de organização e/ou implementação desse projeto tiveram como base conceitos e ideias fundamentadas (em partes ou totalmente) em alguams obras. Principalmente:
 
-- Dependency Injection Principles, Practices, and Patterns (Steven van Deursen and Mark Seemann)
-- Domain-Driven Design (Eric Evans)
-- Clean Code (Robert Cecil Martin)
-- Web API Design: The Missing Link - Best Practices for Crafting Interfaces that Developers Love (Whitepaper Apigee).
+- [Dependency Injection Principles, Practices, and Patterns](https://www.amazon.com.br/Dependency-Injection-NET-Second-Seemann/dp/161729473X) (Steven van Deursen and Mark Seemann)
+- [Domain-Driven Design](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651/ref=asc_df_8550800651/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=15817736385912429545&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001625&hvtargid=pla-809277038576&psc=1) (Eric Evans)
+- [Clean Code](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=asc_df_8576082675/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=2683233254377265655&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001625&hvtargid=pla-398225630878&psc=1) (Robert Cecil Martin)
+- [Web API Design: The Missing Link - Best Practices for Crafting Interfaces that Developers Love](https://pages.apigee.com/rs/351-WXY-166/images/Web-design-the-missing-link-ebook-2016-11.pdf) (Whitepaper Apigee).
