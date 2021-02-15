@@ -1,4 +1,4 @@
-Camada de Aplicação
+Camada de Apresentação
 ===
 
 Nesta camada estão os arquivos relacionados a camada de apresentação e é nesta que é feita a inicialização do framework. Consequentemente é aqui também que é iniciado o "Composition Root" que montará a árvore de dependências e instanciará tudo aquilo que será necessário ou durante a vida da aplicação (singleton) ou de acordo com as requisições recebidas(scoped).
