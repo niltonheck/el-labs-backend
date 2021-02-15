@@ -22,19 +22,13 @@ Estrutura
 Overview
 ---
 
-O projeto foi desenvolvido em .NET Core (.NET 5) tendo como base o modelo de webapi.
-
-Os endpoint protegidos o fazem através do uso de token JWT, exposto através da rota v1/account/login.
-
-O controle de dependências é feito utilizando SimpleInjector e dada escolha deu-se exclusivamente pela familiaridade com a biblioteca.
-
-A camada de dados tem como principal ferramenta o Entity Framework, suplantada pelo uso de Linq para dar mais clareza ao código.
-
-Fora utilizado SQLite como banco de dados de desenvolvimento exclusivamente pela praticidade.
-
-Para os testes unitários foi utlizado XUnit com mocks criados utilizando a biblioteca Moq.
-
-As definições quanto a quebra das camadas tem como objetivo uma maior adesão aos princípios do SOLID.
+- O projeto foi desenvolvido em .NET Core (.NET 5) tendo como base o modelo de webapi.
+- Os endpoint protegidos o fazem através do uso de token JWT, exposto através da rota v1/account/login.
+- O controle de dependências é feito utilizando SimpleInjector e dada escolha deu-se exclusivamente pela familiaridade com a biblioteca.
+- A camada de dados tem como principal ferramenta o Entity Framework, suplantada pelo uso de Linq para dar mais clareza ao código.
+- Fora utilizado SQLite como banco de dados de desenvolvimento exclusivamente pela praticidade.
+- Para os testes unitários foi utlizado XUnit com mocks criados utilizando a biblioteca Moq.
+- As definições quanto a quebra das camadas tem como objetivo uma maior adesão aos princípios do SOLID.
 
 <br />
 
